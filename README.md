@@ -23,3 +23,5 @@ Si vous aimez LoL ou SC2 par exemple, tant mieux pour
 vous, personnellement mon avis reste que je n'aime pas ce jeu
 J'ai peut-être manqué un truc..
 ```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
