@@ -1,6 +1,6 @@
 # Bienvenue sur ma Page GitHub !
 
-###Brève présentation:
+### Brève présentation:
 ``` 
 Salut c'est MAKSHOUW aka. Maxence pour les intimes
 J'ai 18 ans et je suis passionné par le développement et l'e-Sport
