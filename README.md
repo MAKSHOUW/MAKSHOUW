@@ -3,6 +3,11 @@
 ### Brève présentation:
 ``` 
 Salut c'est MAKSHOUW aka. Maxence pour les intimes
+- 18ans, l(g)bt & no life
+- OK OK.. On arrête ça !
+- Quoi ??
+- Reformule plus lentement steuplé..
+- Ok.. Ok..
 J'ai 18 ans et je suis passionné par le développement et l'e-Sport
 depuis quelques années.. Je développe sur mon temps libre
 et je passe le reste de mon temps sur Overwatch ou Paladium.
