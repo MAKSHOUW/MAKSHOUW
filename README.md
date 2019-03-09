@@ -31,3 +31,4 @@ J'ai peut-être manqué un truc..
 
 ### Suis-moi sur les réseaux pouloulou !
 <a href="https://twitter.com/MAKSHOUW" rel="@MAKSHOUW">![Foo](https://drive.makshouw.be/img/kniufdb9wxyb.png)</a>
+<a href="https://www.youtube.com/channel/UCabfItvMwdNWKDIVhQjrk8g" rel="MAKSHOUW">![Foo](https://drive.makshouw.be/img/i448k9o07x29.png)</a>
