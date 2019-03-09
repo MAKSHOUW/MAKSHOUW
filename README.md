@@ -29,4 +29,5 @@ vous, personnellement mon avis reste que je n'aime pas ce jeu
 J'ai peut-être manqué un truc..
 ```
 
-<a href="https://twitter.com/MAKSHOUW" rel="some text">![Foo](https://drive.makshouw.be/img/n3hgnk15328d.png)]</a>
+### Suis-moi sur les réseaux pouloulou !
+<a href="https://twitter.com/MAKSHOUW" rel="some text">![Foo](https://drive.makshouw.be/img/kniufdb9wxyb.png)]</a>
