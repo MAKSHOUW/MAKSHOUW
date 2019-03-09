@@ -29,8 +29,4 @@ vous, personnellement mon avis reste que je n'aime pas ce jeu
 J'ai peut-être manqué un truc..
 ```
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)]</a>
