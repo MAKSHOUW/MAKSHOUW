@@ -30,7 +30,7 @@ J'ai peut-être manqué un truc..
 ```
 
 ### Suis-moi sur les réseaux pouloulou !
-<a href="https://twitter.com/MAKSHOUW" rel="TW">![Foo](https://drive.makshouw.be/img/tfgsl9e6w543.png)</a>
-<a href="https://www.youtube.com/channel/UCabfItvMwdNWKDIVhQjrk8g" rel="YT">![Foo](https://drive.makshouw.be/img/i448k9o07x29.png)</a>
-<a href="https://discord.gg/y7hEU6M" rel="YT">![Foo](https://drive.makshouw.be/img/47dsn6djdcnd.png)</a>
-<a href="https://ADD-ME-ON-SNAPCHAT->MAKSSOUW" rel="YT">![Foo](https://drive.makshouw.be/img/ou1c30acdlss.png)</a>
+<a href="https://twitter.com/MAKSHOUW" rel="TWITTER">![Foo](https://drive.makshouw.be/img/tfgsl9e6w543.png)</a>
+<a href="https://www.youtube.com/channel/UCabfItvMwdNWKDIVhQjrk8g" rel="YOUTUBE">![Foo](https://drive.makshouw.be/img/i448k9o07x29.png)</a>
+<a href="https://discord.gg/y7hEU6M" rel="DISCORD">![Foo](https://drive.makshouw.be/img/47dsn6djdcnd.png)</a>
+<a href="https://drive.makshouw.be/img/c7545hsmk0zj.jpg" rel="SNAPCHAT">![Foo](https://drive.makshouw.be/img/ou1c30acdlss.png)</a>
